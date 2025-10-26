@@ -48,9 +48,8 @@ This project demonstrates basic **banking operations** such as Withdraw, Deposit
 🔘 **Buttons:** Withdraw | Deposit | Check Balance | Clear | Exit  
 📋 **Message Label:** Displays transaction results or errors  
 
-*(Add screenshots later for a more visual README — e.g., UI showing before and after transactions)*  
+<img width="963" height="524" alt="Screenshot 2025-10-25 135554" src="https://github.com/user-attachments/assets/8d59b09f-febf-47e9-a1f2-25b03bdef446" />
 
----
 
 ## ⚙️ Requirements
 
@@ -67,26 +66,25 @@ This project demonstrates basic **banking operations** such as Withdraw, Deposit
 1. Clone or download this repository:
    ```bash
    git clone https://github.com/ayushteli123/ATM-Machine-Java-Swing.git
-Open the project in your preferred IDE.
+Open the project in your preferred IDE.<br>
 
-Run the main file:
+**2.  Run the main file:**<br>
 
-bash
-Copy code
-ATMGUI.java
-Using Command Line:
-bash
-Copy code
-javac ATMGUI.java
-java ATMGUI
+ATMGUI.java<br>
 
-👤 Author
-Ayush Teli
-📧 E-mail: ayushteli80@gmail.com
-🌐 GitHub: @ayushteli123
+**3.  Using Command Line:**<br>
 
-🧾 License
-📜 MIT License
+javac ATMGUI.java<br>
+java ATMGUI<br>
+
+## 👤 Author
+
+**Ayush Teli**<br>
+📧 E-mail: ayushteli80@gmail.com<br>
+🌐 GitHub: @ayushteli123<br>
+
+## 🧾 License
+**📜 MIT License**
 
 Copyright (c) 2025 ayushteli123
 
