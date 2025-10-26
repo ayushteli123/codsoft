@@ -33,10 +33,9 @@ Earn points based on your remaining attempts.
 View your score and check the Leaderboard anytime!
 
 #  🖥️ Interface
+<img width="330" height="155" alt="Screenshot 2025-10-25 113059" src="https://github.com/user-attachments/assets/c8492bcc-1445-4104-bf6a-f4b3324f096b" />
 
-<img width="330" height="155" alt="Screenshot 2025-10-25 113059" src="https://github.com/user-attachments/assets/72d86706-20a0-4109-9b24-325b4dec8e20" />
-
-<img width="1755" height="887" alt="Screenshot 2025-10-25 113245" src="https://github.com/user-attachments/assets/8fb7f3f9-bcb1-48be-9337-55ac3f0428a6" />
+<img width="1755" height="887" alt="Screenshot 2025-10-25 113245" src="https://github.com/user-attachments/assets/f4b3ef07-30d5-4bf4-be40-778993c0fd0e" />
 
 
 #  🛠️ Requirements
@@ -55,20 +54,20 @@ java NumberGuessGUI
 #  ⚙️ How to Run
 ▶️ Using an IDE:
 
-Clone or download this repository:
+1.  Clone or download this repository:
 
 git clone https://github.com/ayushteli123/Number-Guessing-Game-project-Java-Swing-GUI-.git
 
 
-Open the project in your IDE.
+Open the project in your IDE.<br>
 
-Run the file:
+2.  Run the file:<br>
 
-NumberGuessGUI.java
+NumberGuessGUI.java<br>
 
-💻 Using Command Line:
-javac NumberGuessGUI.java
-java NumberGuessGUI
+3.  💻 Using Command Line:<br>
+javac NumberGuessGUI.java<br>
+java NumberGuessGUI<br>
 
 #  🏆 Scoring System
 ---------------------------------
@@ -83,8 +82,9 @@ java NumberGuessGUI
 | 1             | 10             |
 | 0             | 0 (Game Over)  |
 ----------------------------------
-📖 Leaderboard
-<img width="318" height="170" alt="Screenshot 2025-10-25 113834" src="https://github.com/user-attachments/assets/c10a5682-6ce8-4b23-baea-46d6b79dc123" />
+#  📖 Leaderboard
+<br>
+<img width="318" height="170" alt="Screenshot 2025-10-25 113834" src="https://github.com/user-attachments/assets/13514cf8-d5f8-4905-b99c-bfdf08b40470" />
 
 Scores are saved in leaderboard.txt (in the project directory).
 
